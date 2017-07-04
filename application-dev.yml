@@ -4,7 +4,7 @@
 
 # Property used on app startup to check the config server status
 configserver:
-    name: JHipster Registry config server    red-dev
+    name: JHipster Registry config server    auto config 
     status: Connected to the JHipster Registry config server!
 
 # Default JWT secret token (to be changed in production!)
